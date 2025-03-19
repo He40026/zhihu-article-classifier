@@ -3,6 +3,9 @@
 
 ## 1.下载需要的知乎文章到本地markdown文件
 
+如下载收藏夹，推荐使用
+[zanghuaren/ZhiHu-Collection-To-Markdown](https://github.com/zanghuaren/ZhiHu-Collection-To-Markdown)
+
 ## 2.获取DeepSeek的API
 
 **打开[deepseek官网](https://www.deepseek.com/),从页面右上角进入“API开放平台”,注册并登录,创建一个API key**
