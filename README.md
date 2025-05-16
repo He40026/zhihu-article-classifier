@@ -1,6 +1,6 @@
 # zhihu-article-classifier
 
-基于DeepSeek API的自动化Markdown文件分类工具，可将指定目录中的文件按标题智能分类到预定义类别，并自动移动到对应子目录。
+基于DeepSeek API的自动化Markdown文件分类工具，主要用于知乎文章收藏，可将指定目录中的文件按标题智能分类到预定义类别，并自动移动到对应子目录。
 
 ## 快速开始🚀
 
